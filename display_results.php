@@ -69,6 +69,8 @@
 
         <label>Future Value:</label>
         <span><?php echo $future_value_f; ?></span><br>
+
+	<p> This calculation was done on <?php echo date('m/d/Y'); ?>.</p>
     </main>
 </body>
 </html>
